@@ -3,12 +3,12 @@
 ## Problem Statement
 
 Before we begin diving deep into code, it is important to make sure that we go
-over the proper steps and the flow involved in completed labs on Learn. In this
-_lab_ (yep, this is a lab!), we will be introducing those steps.
+over the proper steps involved in completing labs on Learn. In this _lab_ (yep,
+this is a lab!), we will be introducing those steps.
 
 ## Objectives
 
-1. Introduce the concepts of Test Driven Development
+1. Introduce the concept of running tests on Learn
 2. Pass the tests to confirm you are ready for future lessons
 
 ## Labs Are Lessons _with Tests_
@@ -45,14 +45,17 @@ Each failed test will appear in order. It is recommended that you start from the
 first (the top most) test failure and work your way through until all tests are
 passing.
 
+For the final step, when you run `learn submit`, learn.co is notified, registers
+that you've sent in your work and marks that you have completed the lab.
+
 ## Reinforce What We Have Learned About Labs
 
 The best way to understand the workflow described above is to apply it! There is
-_one_ test in this lab.  In order to pass the test, follow the steps above. The
+_one_ test in this lab.  In order to pass the test, follow the numbered steps above. The
 first time you run `learn`, the test will fail, but the resulting message will
 provide information about how to pass.
 
-When you've passed the test, run `learn submit` to submit your work.
+When you've passed the test, run `learn submit`.
 
 ## Conclusion
 
