@@ -29,6 +29,21 @@ environment, follow the steps below:
 
 Whether you are using the in-browser Learn IDE, the standalone Learn IDE or your
 own local set up, these core steps will always be the same for passing labs.
+Don't be alarmed if you don't understand everything that prints out in the
+terminal just yet.  The main thing to look for is the breakdown of failed tests:
+
+```sh
+Your First Learn Lab
+  contains a file called "my-new-file.txt" (FAILED -1)
+
+Failures:
+
+  1) Your First Learn Lab...
+```
+
+Each failed test will appear in order. It is recommended that you start from the
+first (the top most) test failure and work your way through until all tests are
+passing.
 
 ## Reinforce What We Have Learned About Labs
 
