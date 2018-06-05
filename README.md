@@ -45,8 +45,9 @@ Each failed test will appear in order. It is recommended that you start from the
 first (the top most) test failure and work your way through until all tests are
 passing.
 
-For the final step, when you run `learn submit`, learn.co is notified, registers
-that you've sent in your work and marks that you have completed the lab.
+For the final step, when you run `learn submit`, the work you've completed is
+sent back, learn.co is notified, registers that you've sent in your work and
+marks that you have completed the lab.
 
 ## Reinforce What We Have Learned About Labs
 
